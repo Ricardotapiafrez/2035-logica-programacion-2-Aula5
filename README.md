@@ -1,7 +1,7 @@
 # Documentación del Juego del Número Secreto
 
 ## Información General
-Este código implementa un juego llamado "Juego del número secreto" como parte del contenido de la clase "Lógica de programación: explorar funciones y listas" y "Git y GitHub: repositorio, commit y versiones" de la unidad **Principiante en Programación G8 - ONE** perteneciente a la certificación **ORACLE ONE - INACAP G8**.
+Este código implementa un juego llamado "Juego del número secreto" como parte del contenido de la clase "Lógica de programación: explorar funciones y listas" y "Git y GitHub: repositorio, commit y versiones" de la unidad **Principiante en Programación G8 - ONE** perteneciente a la certificación **ORACLE ONE G8- INACAP**.
 
 ### Descripción del Juego
 El objetivo del juego es que el usuario adivine un número secreto generado aleatoriamente por el sistema. El juego proporciona pistas indicando si el número secreto es mayor o menor al ingresado por el usuario. El juego finaliza cuando el usuario acierta el número secreto.
